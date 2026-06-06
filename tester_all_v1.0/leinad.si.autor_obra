@@ -1,0 +1,42 @@
+header.leinad.dontchange tester/1.0
+4
+37
+
+Mitologia griega;1a referencia a IA
+Egipto antiguo;Estatuas animadas
+Architas de Tarente;"Paloma"
+Arquímedes vs flota romana;"Automatismos defensivos en Siracusa"
+Hero de Alejandría;"Actores de la guerra de Troya"
+Época bárbara y romana;Mal desarrollo de ciencia y tecnología
+San Alberto Magno;"Mayordomo"
+Leonardo;"Leon florido y animado"
+Ramon Lull;"Ars Magna"
+Loew;"Golem"
+Von Kempelen;"Malzel Chess Automaton"
+Relojeros de la familia Droz;"Androides"
+Vaucanson;"Tocador de flauta","Tocador de paramillo","Pato"
+Ada Lovelace y Charles Babbage;Maquina analitica
+Ernst, Newell y Simon;programa "Teorico Lógico"
+Shaw, Newell y Simon;programa "General Problem Solver"
+McCarthy, Shannon, Minsky, Rochester, Newell, Simon, ... [10 en total];"Dartmouth Summer Research Project on AI"
+Rosenblatt;Perceptron
+Widrow y Hoff;ADALINE y MADALINES
+Minsky y Papert;Papel "Perceptrons"
+Tras un papel de Gödel;"Informe Ligthill"
+Anderson;"Memoria Lineal Asociativa"
+Fukushima;"Cognitron","Neocognitron"
+Grossberg;"Teoria de la avalancha"
+Grossberg, Amari, McClelland, Rumelhart, Edelman, Reeke, Kohonen, Kosko, ...;"Modelos Biologicos"
+Hopfield;Modelos de Sistemas Inteligentes de Emulacion
+Daniel Hillis;"Maquina Conexionista"
+Turing;<<juego de la imitacion>>
+Kohonen;Redes SOM
+Fritzke;Redes GNG
+Bremermann;Propone realizar optimizacion por recombinacion y evolucion
+Rechenberg;Introdujo los conceptos de estrategias de evolucion a la computacion
+L. Fogel, Owens y Walsh;Introdujeron la programacion evolutiva
+John Holland;Realmente el creador de la teoria de la computacion evolutiva
+David Goldberg;Promueve el uso de algoritmos geneticos para aprendizaje y optimizacion
+John Koza;Introduce la programacion genetica
+De Jon;Ambiente de prueba de cinco problemas de minimización de funciones
+Conway;"Game of life"

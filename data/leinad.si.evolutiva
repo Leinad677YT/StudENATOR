@@ -1,0 +1,14 @@
+header.leinad.dontchange tester/1.0
+3
+10
+
+Kohonen;Redes SOM
+Fritzke;Redes GNG
+Turing;Propone realizar busqueda por medios evolutivos
+Bremermann;Propone realizar optimizacion por recombinacion y evolucion
+Rechenberg;Introdujo los conceptos de estrategias de evolucion a la computacion
+L. Fogel, Owens y Walsh;Introdujeron la programacion evolutiva
+John Holland;Realmente el creador de la teoria de la computacion evolutiva
+David Goldberg;Promueve el uso de algoritmos geneticos para aprendizaje y optimizacion
+John Koza;Introduce la programacion genetica
+De Jon;Ambiente de prueba de cinco problemas de minimización de funciones

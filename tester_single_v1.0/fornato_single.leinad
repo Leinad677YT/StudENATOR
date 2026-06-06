@@ -1,0 +1,11 @@
+header.leinad.dontchange tester/1.0
+NUM_OPCIONES_A_DAR                     // [1,9] 
+NUM_PAREJAS                            // > NUM_OPCIONES_A_DAR, si usas un editor que marque lineas, haz `linea_final_vacia - 5` al terminar de escribirlos
+
+CORRESPONDE_A-1;ELEMENTO_A_PREGUNTAR-1 // ni los antecedentes ni los consecuentes deben superar 120 caracteres
+CORRESPONDE_A-2;ELEMENTO_A_PREGUNTAR-2 // no puede haber duplicados al mismo lado del `;`
+CORRESPONDE_A-3;ELEMENTO_A_PREGUNTAR-3
+CORRESPONDE_A-4;ELEMENTO_A_PREGUNTAR-4
+CORRESPONDE_A-5;ELEMENTO_A_PREGUNTAR-5
+...
+CORRESPONDE_A-NUM_PAREJAS ; ELEMENTO_A_PREGUNTAR-NUM_PAREJAS

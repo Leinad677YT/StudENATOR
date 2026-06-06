@@ -1,0 +1,10 @@
+header.leinad.dontchange tester_wrapper/1.0
+NUM_TEST_DB       // cantidad de bases de datos a usar, sirve tambien de numero de "peso total"
+
+fichero1            // fichero a leer para crear una base de datos
+fichero2            // se recomienda repetirlos para dar mas peso a los repetidos
+fichero3            // cada linea anhade un peso de 1 a tal fichero
+fichero4            // son aptas las rutas relativas
+fichero5
+...
+ficheroNUM_TEST_DB
