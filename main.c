@@ -393,7 +393,7 @@ struct data* leinad_tester_wrapper_readfile(int data_fd) {
         }
 
         read_chars = leinad_io_readline(single_fd[i], buffer_2);
-        if (read_chars !=35 || strcmp(buffer,LEINAD_EXPECTED_HEADER_single)) {
+        if (read_chars !=35 || strcmp(buffer_2,LEINAD_EXPECTED_HEADER_single)) {
             printf("Specified wrapped file is not a valid wrappable file for the tester on 1.0!\n");
         }
 
